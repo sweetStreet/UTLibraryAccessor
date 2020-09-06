@@ -18,5 +18,5 @@ Choose "Load Unpacked"
 ![](pic/snapshot1.png)
 
 
-3. Click the icon of UTLibraryAccessor. It would redirect you to the UT account login page and then you can download the paper free!
+3. Click the icon of UTLibraryAccessor. It would redirect you to the UT account login page and then you can download the paper for free!
 ![](pic/snapshot2.png)
