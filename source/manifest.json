@@ -1,0 +1,17 @@
+{
+    "name": "UT Library Accessor",
+    "description" : "Do not pay for papers! Can access papers from UT library with UT accounts",
+    "version": "1.0",
+    "manifest_version": 2,
+    "browser_action": {
+      "default_icon": "extensions.png"
+    },
+    "icons": {
+      "128": "extensions.png"
+    },
+    "permissions": ["tabs"],
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    }
+}
