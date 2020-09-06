@@ -1,11 +1,12 @@
 This is a chrome extensions for UT students to quickly have access to free papers with UT accounts.
 
 How to install:    
-1. Download the file (UTLibrary.crx)
-https://drive.google.com/file/d/1WH4jj9RLOx7_VBw-jQRZwsvQgHtPw9-6/view?usp=sharing
+1. Download and unzip the file (UTLibrary.zip)
+https://drive.google.com/file/d/1Dxrw7FvwffnQmoXu7ICjqpkwqLc5IvNp/view?usp=sharing
 
 2. Go to chrome://extensions/    
-Drag & Drop the '.crx' file on to the 'Extensions' page 
+Choose "Load Unpacked"
+![](pic/Extensions.png)
 
 How to use:
 1. pin extension
