@@ -10,6 +10,7 @@ Choose "Load Unpacked"
 
 How to use:
 1. pin extension
+![](pic/snapshot3.png)
 
 2. Open a webpage which requests access
 ![](pic/snapshot1.png)
